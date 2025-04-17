@@ -9,3 +9,7 @@ def separate_odd_even():
 odd_numbers, even_numbers = separate_odd_even()
 print("Odd numbers: ", odd_numbers)
 print("Even numbers: ", even_numbers)
+
+#print properly
+print("\nOdd numbers: ", odd_numbers)
+print("Even numbers: ", even_numbers)
